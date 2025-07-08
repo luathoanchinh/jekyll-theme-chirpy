@@ -14,19 +14,18 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Công ty Luật Hoàn Chỉnh
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: "Nơi chia sẻ kiến thức pháp lý và nghiên cứu học thuật"
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: "Nghiên cứu luật vận tải quốc tế, vận đơn, trách nhiệm người vận chuyển"
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: ""
 
 github:
-  username: github_username # change to your GitHub username
+  username: Luật sư Trần Văn Hoàng
 
 twitter:
   username: twitter_username # change to your Twitter username
